@@ -1,0 +1,14 @@
+body{
+    background-color:plum;
+}
+#fb{
+    width:400px;
+    margin-top: 140px;
+    border-radius: 2%;
+    text-align: justify;
+    font-weight: 600;
+    background-color: rgb(255, 184, 255);
+}
+.xen{
+    margin-top: 180px;
+}

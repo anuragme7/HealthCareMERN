@@ -1,0 +1,36 @@
+.SideBar{
+    height: 100%;
+    width:250px;
+    background-color:#2F4050;
+}
+.SideBarList{
+    height: auto;
+    padding:0;
+    width: 100%;
+}
+.SideBarList .listrow{
+    width:100%;
+    height: 57px;
+    list-style-type: none;
+    margin:0;
+    display: flex;
+    color:whitesmoke;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.SideBarList .listrow:hover{
+    cursor: pointer;
+    background-color: #293846;
+}
+.SideBarList #active{
+    background-color: #293846;
+}
+.listrow #icon{
+    flex:30%;
+    display: grid;
+    place-items: center;
+}
+.listrow #title{
+    flex:70%;
+}

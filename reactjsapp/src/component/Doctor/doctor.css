@@ -1,0 +1,26 @@
+.rowtr{
+    height: 40px;
+}
+.fright{
+    float:right;
+}
+.rows{
+    width:130px;
+    background-color: papayawhip;
+}
+.link {
+    color:red;
+    text-decoration: none;
+}
+.obs{
+    border:1px solid papayawhip;
+    width:500px;
+    background-color: papayawhip;
+    color:red;
+    font-weight: 600;
+}
+#newobs{
+    width:400px;
+    height: 150px;
+    word-break: break-all;
+}
