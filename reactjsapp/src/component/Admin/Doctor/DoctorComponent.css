@@ -1,0 +1,43 @@
+.rowtr{
+    height: 40px;
+}
+.error{
+    color:red;
+}
+#tb{
+    width:400px;
+}
+#sb{
+    font-weight: 600;
+}
+#logout{
+    float:right;
+    color:red;
+    background-color: papayawhip;
+}
+#logout:hover{
+    background-color: rgb(255, 157, 255);
+}
+.star{
+    color:red;
+    width: 2px;
+}
+.fields{
+    width: 160px;
+}
+.styleme{
+    color:red;
+    font-family: cursive;
+}
+.rows{
+    width:150px;
+    background-color: papayawhip;
+    text-align: center;
+}
+.rows:hover{
+    background-color: rgb(255, 157, 255);
+}
+.link {
+    color:red;
+    text-decoration: none;
+}

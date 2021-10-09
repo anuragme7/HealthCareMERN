@@ -1,0 +1,30 @@
+.rowtr{
+    height: 40px;
+}
+#logout{
+    float:right;
+    color:red;
+    background-color: papayawhip;
+}
+#logout:hover{
+    background-color: rgb(255, 157, 255);
+}
+.star{
+    color:red;
+    width: 2px;
+}
+.rows{
+    width:150px;
+    background-color: papayawhip;
+    text-align: center;
+}
+.rows:hover{
+    background-color: rgb(255, 157, 255);
+}
+.link {
+    color:red;
+    text-decoration: none;
+}
+#small{
+    width: 300px;
+}

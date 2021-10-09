@@ -1,0 +1,25 @@
+.rowtr{
+    height: 40px;
+}
+#tb{
+    width:400px;
+}
+.star{
+    color:red;
+    width: 2px;
+}
+#deleterow{
+    width: 200px;
+}
+#link {
+    text-decoration: none;
+    width: auto;
+    color:red;
+    background-color: papayawhip;
+}
+#link:hover{
+    background-color: rgb(255, 157, 255);
+}
+.fright{
+    float:right;
+}

@@ -1,0 +1,34 @@
+.rowtr{
+    height: 40px;
+}
+.admindash{
+    width:150px;
+    background-color: papayawhip;
+    text-align: center;
+
+}
+.admindash:hover{
+    background-color: rgb(255, 157, 255);
+}
+.adminlink {
+    color:red;
+    text-decoration: none;
+}
+#logout{
+    float:right;
+    color:red;
+    background-color: papayawhip;
+}
+#logout:hover{
+    background-color: rgb(255, 157, 255);
+}
+.screen{
+    height: auto;
+    padding:0;
+    width: 100%;
+}
+.screen .ui{
+    list-style-type: none;
+    margin:0;
+    display: flex;
+}
